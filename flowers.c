@@ -1,3 +1,4 @@
 rose
 lily
 sunflower
+lotus
